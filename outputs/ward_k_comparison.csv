@@ -1,0 +1,15 @@
+Matrix,Method,k,Inertia,Silhouette,Min_%,Sizes,Feasible
+Risk_Return,Agglomerative,2,,0.339,18.9,"[394, 92]",True
+Risk_Return,Agglomerative,3,,0.274,18.9,"[230, 164, 92]",True
+Risk_Return,Agglomerative,4,,0.282,9.9,"[182, 164, 92, 48]",True
+Risk_Return,Agglomerative,5,,0.304,9.9,"[182, 98, 92, 66, 48]",True
+Risk_Return,Agglomerative,6,,0.32,1.0,"[182, 98, 87, 66, 48, 5]",False
+Risk_Return,Agglomerative,7,,0.324,1.0,"[160, 98, 87, 66, 48, 22, 5]",False
+Risk_Return,Agglomerative,8,,0.321,1.0,"[160, 98, 66, 56, 48, 31, 22, 5]",False
+Activity,Agglomerative,2,,0.368,16.9,"[404, 82]",True
+Activity,Agglomerative,3,,0.304,16.9,"[250, 154, 82]",True
+Activity,Agglomerative,4,,0.289,8.8,"[207, 154, 82, 43]",True
+Activity,Agglomerative,5,,0.305,2.1,"[207, 154, 72, 43, 10]",False
+Activity,Agglomerative,6,,0.314,2.1,"[207, 136, 72, 43, 18, 10]",False
+Activity,Agglomerative,7,,0.292,2.1,"[141, 136, 72, 66, 43, 18, 10]",False
+Activity,Agglomerative,8,,0.302,2.1,"[141, 79, 72, 66, 57, 43, 18, 10]",False
